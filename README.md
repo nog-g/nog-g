@@ -1,10 +1,10 @@
-Hi 👋, i'm Zakaria, a Discord.JS developper, i also work with Java.
+Hi 👋, i'm a Java & JS Developper
 
 # 🚀 CURRENT PROJECTS
 
 • MOKABOT
 
-• MOKA CLIENT 
+• DISCORD RPC MANAGER
 
 
 ## 🌐 Support
